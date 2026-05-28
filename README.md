@@ -24,7 +24,7 @@ The program takes user input, performs the selected operation, and displays the 
 ---
 
 ## Technologies Used
-- Python 3
+- Python 3.14
 
 ---
 
